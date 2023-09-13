@@ -94,7 +94,7 @@ function actualizarContador() {
 
 actualizarContador();*/
 
-let count =[];
+/*let count =[];
 
 function counting() {
   dataCounting.forEach((element, index) => {
@@ -107,7 +107,7 @@ function counting() {
   });
   
 }
-counting();
+counting();*/
 
 /*dataCounting.forEach((element, index)=>{
   console.log(element)

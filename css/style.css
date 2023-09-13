@@ -47,6 +47,7 @@ html {
 .menu li {
     margin: 10px 0;
     position: relative;
+    list-style: none;
 }
 
 
